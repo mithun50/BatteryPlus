@@ -9,6 +9,7 @@ AI-powered battery monitoring app built with React Native and Expo.
 - **24h Trend Chart** - Track battery usage over time
 - **AI Battery Advisor** - Personalized tips using Groq AI
 - **Health Tips** - Battery care recommendations
+- **Multi-Language Support** - 6 languages (English, Spanish, French, German, Hindi, Chinese)
 - **Dark Theme UI** - Modern gradient-based design
 
 ## Screenshots
